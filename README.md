@@ -15,7 +15,7 @@ Transform your Jupyter notebooks into a pipeline of nodebooks.
 Run the following command:
 
 ```shell
-pip install git+https://{token}@github.com/bayer-int/firstml.git
+pip install git+https://{token}@github.com/Bayer-Group/FirstML.git
 ```
 
 ### From Local File System
@@ -23,7 +23,7 @@ pip install git+https://{token}@github.com/bayer-int/firstml.git
 Clone this GitHub repository:
 
 ```shell
-git clone https://github.com/bayer-int/firstml.git
+git clone https://github.com/Bayer-Group/FirstML.git
 ```
 
 Move into the project directory:
